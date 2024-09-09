@@ -23,7 +23,7 @@ st.title("Twitter US Airline Sentiment Analysis")
 st.markdown("## Predict the sentiment of tweets related to US airlines")
 
 # Add an image at the top
-st.image('sentiment_model_image.jpg', use_column_width=True, caption="Sentiment Analysis Model Overview")
+st.image('sentiment_model_image.jpg', use_column_width=True, caption="US Airline Sentiment Analysis")
 
 # Sidebar for user input and options
 st.sidebar.header("User Input")
@@ -63,4 +63,4 @@ st.image('data_pipeline_image.jpg', use_column_width=True, caption="Overview of 
 
 # Footer
 st.markdown("---")
-st.markdown("Built with 💻 by [Your Name]. Data sourced from [Kaggle](https://www.kaggle.com/crowdflower/twitter-airline-sentiment).")
+
