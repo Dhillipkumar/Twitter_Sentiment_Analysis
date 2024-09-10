@@ -59,7 +59,7 @@ st.pyplot(fig)
 
 # Add an image of the data pipeline (if available)
 st.markdown("### Data Pipeline")
-st.image('data_pipeline_image.jpg', use_column_width=True, caption="Overview of the Data Processing Pipeline")
+st.image('Blank diagram.png', use_column_width=True, caption="Overview of the Data Processing Pipeline")
 
 # Footer
 st.markdown("---")
